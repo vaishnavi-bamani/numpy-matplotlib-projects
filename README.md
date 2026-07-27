@@ -36,9 +36,9 @@ Each project increases in complexity and is designed to simulate real-world data
 |----------|-------------|--------|
 | 🌦️ Project 01 - Weather Analytics Dashboard | Analyze weather trends using multiple charts and a dashboard. | ✅ Completed |
 | 📚 Project 02 - Student Performance Dashboard | Analyze student marks, attendance, and academic performance. | ✅ Completed |
-| 💰 Project 03 - Sales Analytics Dashboard | Business sales analysis with statistical insights and dashboards. | 🚧 Coming Soon |
-| 🌱 Project 04 - Agriculture Analytics Dashboard | Agriculture data analysis inspired by the Khet Guru project. | 🚧 Coming Soon |
-| 🏅 Project 05 - Olympics Analytics Dashboard | Analyze Olympic performance, medals, and trends. | 🚧 Coming Soon |
+| 💰 Project 03 - Sales Analytics Dashboard | Business sales analysis with statistical insights and dashboards. | ✅ Completed |
+| 🌱 Project 04 - Agriculture Analytics Dashboard | Agriculture data analysis inspired by the Khet Guru project. | ✅ Completed |
+| 🏅 Project 05 - Olympics Analytics Dashboard | Analyze Olympic performance, medals, and trends. | ✅ Completed|
 
 ---
 
